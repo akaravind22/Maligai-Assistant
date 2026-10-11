@@ -1,0 +1,32 @@
+# ── Node ──────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Environment ────────────────────────
+.env
+.env.local
+.env.production
+
+# ── Build outputs ─────────────────────
+dist/
+build/
+.expo/
+web-build/
+
+# ── Uploads ───────────────────────────
+server/uploads/
+
+# ── OS ────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDE ───────────────────────────────
+.vscode/settings.json
+.idea/
+
+# ── Mobile ────────────────────────────
+mobile/.expo/
+mobile/android/
+mobile/ios/
